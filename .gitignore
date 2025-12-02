@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual env (adjust name if different)
+rollercoaster/
+.venv/
+env/
+venv/
+
+# VS Code settings
+.vscode/
+
+# macOS
+.DS_Store
